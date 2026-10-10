@@ -10,4 +10,5 @@ SystemUpdate            # pick a version, Enter, y
 ```
 
 Each image is a release asset. The index holds its SHA-256 and size, and the device checks both
-before it switches to the new firmware. The current version is `v0.1(beta)`.
+before it switches to the new firmware. The newest version is `v0.1.0.1` (stable). The older
+`v0.1(beta)` is still listed, in case you want to go back.

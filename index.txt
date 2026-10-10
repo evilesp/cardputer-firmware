@@ -1,2 +1,3 @@
 # SystemUpdate reads this file: label|sha256|size in bytes|download url
+v0.1.0.1|aa035d69e2f91b0b020da995475ac15d6ada92ce9e6a5590d47e2fe9223d932c|1574112|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.0.1/firmware-v0.1.0.1.bin
 v0.1(beta)|710a5cb924b00e33b4ea9ba469284647893d10f7841d8ca83db0de43bf970454|1572128|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1-beta/firmware-v0.1-beta.bin
