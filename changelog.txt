@@ -1,0 +1,6 @@
+# Release dates and changes, read by UpdateVersionInfo and SystemBackUpdate.
+# label|release date (YYYY-MM-DD)|what changed compared with the previous version (points separated by ';')
+v0.1.0.4(beta)|2026-10-10|SystemBackUpdate lists every version (betas too) and installs the number you type; UpdateVersionInfo shows what changed, the release date and the size; imu and sendIr commands for the motion sensor and the infrared LED; imuMonitor brew package shows the sensor as bars; SystemUpdate brew package is obsolete, the update commands are built in; the index carries dates and descriptions
+v0.1.0.3(beta)|2026-10-10|several terminal windows: Ctrl+T new (up to 3), Ctrl+N and Ctrl+P switch, Ctrl+X close; SystemUpdate and SystemUpdateBeta are built into the terminal, no brew package
+v0.1.0.1|2026-10-10|text search (duckduckgo) reads the results while they arrive, no out-of-memory error; out of memory during HTTPS shows an error instead of a restart; smaller picture cache; Ctrl+C during a network call no longer leaks memory; cp refuses to copy a file onto itself or a directory into itself; tail, grep and similar report files over 64 KB instead of reading part; brew reinstall reinstalls; a pin used for PWM can be driven again; sleep and hostname check their input
+v0.1(beta)|2026-10-10|first beta: shell, brew packages, telnet, duckduckgo, SystemUpdate through brew
