@@ -1,6 +1,7 @@
 # SystemUpdate reads this file: label|sha256|size in bytes|download url
 # Keep exactly these four fields: the firmware of older versions rejects any other layout.
 # Release dates and what changed are in changelog.txt.
+v0.1.0.11(beta)|fecca6ec2b3027ca62ffba7f4c0d7fff65bee59bde8050d3eccc0fc3eddc570d|1842192|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.0.11-beta/firmware-v0.1.0.11-beta.bin
 v0.1.0.10(beta)|9c928f04a6a1a4203a35b3032fe098a8769ec862c7f1282fa0ac2550fbe9c5d4|1837392|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.0.10-beta/firmware-v0.1.0.10-beta.bin
 v0.1.0.9(beta)|172a6ff801efa512a4f73a3b1a04770b96a78b2aa63d6ce3fd3dd666c11f5107|1720400|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.0.9-beta/firmware-v0.1.0.9-beta.bin
 v0.1.0.8(beta)|df8c7e944ce03443a00e9e44ea5eb692983c7d1cdc9a2fb248b73331684ff297|1719024|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.0.8-beta/firmware-v0.1.0.8-beta.bin
