@@ -3,6 +3,9 @@
 Firmware for Cardputer Linux (M5Stack Cardputer ADV). Versions are listed in [index.txt](index.txt),
 with the SHA-256, the size, the release date and what changed compared with the previous version.
 
+**Full documentation (Polish): [FIRMWARE.md](FIRMWARE.md)** — features, commands, `apt`, pins, the external display,
+writing apps and drivers, the graphics environment.
+
 The terminal has the update commands built in (no brew package):
 
 ```bash
