@@ -149,7 +149,7 @@ Karta jest `/`. Układ tworzony przy pierwszym starcie:
 | `/home/user` | katalog domowy (`~`), `.profile`, `.history` |
 | `/tmp`, `/var/lib/brew`, `/var/cache/lua` | tymczasowe, lista pakietów, pamięć podręczna bajtkodu Lua |
 | `/dev/gpioN` | `echo 1 > /dev/gpio2`, `cat /dev/gpio2` |
-| `/dev/null`, `/dev/zero`, `/dev/urandom` | jak w Linuksie |
+| `/dev/null` | jak w Linuksie; `dd if=/dev/zero` i `dd if=/dev/urandom` też działają (tylko w `dd`) |
 | `/proc/uptime`, `meminfo`, `cpuinfo`, `version`, `battery`, `wifi` | informacje o systemie |
 
 FAT nie ma praw dostępu ani dowiązań. `ls -l` pokazuje typowe `drwxr-xr-x` / `-rw-r--r--` i właściciela `user`
