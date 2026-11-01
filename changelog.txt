@@ -1,3 +1,4 @@
 # Release dates and changes, read by UpdateVersionInfo and SystemBackUpdate.
 # label|release date (YYYY-MM-DD)|what changed compared with the previous version (points separated by ';')
 v0.1|2026-10-31|ESP Linux for the ESP32-P4 (Guition JC4880P443C): accounts and sudo (useradd, passwd, su); shutdown; vi, vim, nano; process, text, network, zip and disk commands; wifi scan works after a failed connection; ollama serve on port 3000 and ollama key; the Cardputer builds are no longer listed
+v0.1.1|2026-11-01|own LLM engine with streaming from the SD card and ollama pull from the tap; hardware JPEG pictures fetched in the background without restarts; smooth fonts and a new duckduckgo; nano wraps long lines; Wi-Fi retries instead of switching off
