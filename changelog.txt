@@ -13,3 +13,4 @@ v0.1.9(beta)|2026-11-07|touch in programs: drag = arrow keys, tap = Enter, swipe
 v0.1.10(beta)|2026-11-07|desktop Terminal opens the real text terminal (same shell, cd, history, programs); Ctrl+D, exit or a tap on the top bar return to the desktop; not tried on the board yet
 v0.1.11(beta)|2026-11-07|OTA install: image written through an internal buffer, read back and compared, one retry, clear error text (v0.1.10 failed to activate on the board); not tried on the board yet
 v0.1.12(beta)|2026-11-07|desktop Terminal window shows the real console (same shell, cd, nano, apt, programs inside the window); not tried on the board yet
+v0.1.13(beta)|2026-11-08|nmap (TCP connect scan, host discovery), arp-scan and arp; not tried on the board yet
