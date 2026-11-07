@@ -8,3 +8,4 @@ v0.1.4(beta)|2026-11-07|touch module (touch.read for the GT911); desktop package
 v0.1.5(beta)|2026-11-07|touch is scaled to the controller range and can be calibrated (sudo apt install touchcal, touch.calibrate, /etc/touch.cal); desktop window buttons work and are bigger; not tried on the board yet
 v0.1.6(beta)|2026-11-07|touch scrolls the terminal history (drag a finger; touchscroll on|off turns it off); desktop starts programs again; not tried on the board yet
 v0.1.7(beta)|2026-11-07|load() skips a #!lua first line, so the desktop starts programs (error: unexpected symbol near #); not tried on the board yet
+v0.1.8(beta)|2026-11-07|firmware updates are downloaded into PSRAM and written to flash only after the check, so the screen no longer flashes during the download; not tried on the board yet
