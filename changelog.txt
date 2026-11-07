@@ -10,3 +10,4 @@ v0.1.6(beta)|2026-11-07|touch scrolls the terminal history (drag a finger; touch
 v0.1.7(beta)|2026-11-07|load() skips a #!lua first line, so the desktop starts programs (error: unexpected symbol near #); not tried on the board yet
 v0.1.8(beta)|2026-11-07|firmware updates are downloaded into PSRAM and written to flash only after the check, so the screen no longer flashes during the download; not tried on the board yet
 v0.1.9(beta)|2026-11-07|touch in programs: drag = arrow keys, tap = Enter, swipe = left/right, long press = ctrl-q (touchkeys on|off); the desktop terminal runs every command of the shell; not tried on the board yet
+v0.1.10(beta)|2026-11-07|desktop Terminal opens the real text terminal (same shell, cd, history, programs); Ctrl+D, exit or a tap on the top bar return to the desktop; not tried on the board yet
