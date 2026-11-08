@@ -15,3 +15,4 @@ v0.1.11(beta)|2026-11-07|OTA install: image written through an internal buffer, 
 v0.1.12(beta)|2026-11-07|desktop Terminal window shows the real console (same shell, cd, nano, apt, programs inside the window); not tried on the board yet
 v0.1.13(beta)|2026-11-08|nmap (TCP connect scan, host discovery), arp-scan and arp; not tried on the board yet
 v0.1.14(beta)|2026-11-08|Linux boot log, network and Bluetooth LE tools, python3 node gcc g++ go rustc as packages, desktop look; touch gestures not tried on the board yet
+v0.1.15(beta)|2026-11-08|nano like GNU nano, Lua io/os/lfs/socket/wifi, bash extensions, grep options, stronger language packages and new apps; not tried on the board as a whole
