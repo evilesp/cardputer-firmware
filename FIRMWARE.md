@@ -1,3 +1,5 @@
+> Written for the earlier Cardputer port. The current board and what is new: [README.md](README.md).
+
 # Cardputer Linux — dokumentacja firmware
 
 Terminal w stylu Ubuntu Server dla **M5Stack Cardputer ADV** (ESP32-S3, ekran 240×135, klawiatura, microSD, bez PSRAM).
