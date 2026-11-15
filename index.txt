@@ -25,3 +25,4 @@ v0.1.23(beta)|ae7e932b9ca85106f348154789975f6bfdb95ce8ff963bad1eda6ac6fd0d9f6f|4
 v0.1.24(beta)|e481374f8529e344617cf560af65657d9fda95a765f2bfbc3894d17cf2c33693|4529296|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.24-beta/app.bin
 v0.1.25(beta)|8cd02309a65a2078aab150e813f38736f0a86de8850fce077460841ec42d5ef8|4665248|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.25-beta/app.bin
 v0.1.26(beta)|373cb3097435cee60e133afbc8b1760ca8efcc2318b4ff2d2b41e7e0146123fb|4678624|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.26-beta/app.bin
+v0.1.27(beta)|80af9921efe1aece709a9e41fcd652d1ad522ffbdc43914d59b9bb3621851742|5007792|https://github.com/evilesp/cardputer-firmware/releases/download/v0.1.27-beta/app.bin
